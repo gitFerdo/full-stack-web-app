@@ -4,3 +4,5 @@
 - vue.js - frontend
 - express, node.js - backend
 - mysql - database
+
+- frontend start - npm run dev
